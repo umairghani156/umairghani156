@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairghani156" alt="umairghani156" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Paint Project**
+- 🔭 I’m currently working on [Ecommerce Paint Project](https://madina-ecommerce-website.vercel.app/)
 
-- 🌱 I’m currently learning **Mern Stack Development**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://umairahmedportfolio.vercel.app/](https://umairahmedportfolio.vercel.app/)
 
