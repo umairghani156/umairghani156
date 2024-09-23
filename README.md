@@ -3,6 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairghani156&label=Profile%20views&color=0e75b6&style=flat" alt="umairghani156" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Stars-2-yellow" alt="Stars" /> </p>
 
 - 🌱 I’m a **Mern Stack** || **Full Stack Developer**
 
@@ -27,11 +28,6 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairghani156&show_icons=true&locale=en&layout=compact" alt="umairghani156" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairghani156&show_icons=true&locale=en" alt="umairghani156" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairghani156&" alt="umairghani156" /></p>
-
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> </a>
+    <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antd/antd-original.svg" alt="Ant Design" width="40" height="40"/> </a>
+    <a href="https://socket.io/" target="_b
