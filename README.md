@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairghani156" alt="umairghani156" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [Ecommerce Paint Project](https://madina-ecommerce-website.vercel.app/)
+- 🔭 I’m currently working on [Ecommerce Paint Project](https://paint-dukaan.vercel.app/)
 
 - 🌱 I’m currently learning **Typescript**
 
