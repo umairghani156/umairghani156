@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nest Js and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://umairahmedportfolio.vercel.app/](https://umairahmedportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://umairahmeddev.vercel.app/](https://umairahmeddev.vercel.app/)
 
 - 💬 Ask me about **MERN/Full Stack Development**
 
