@@ -39,7 +39,11 @@
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a></p>
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40"/>
+</a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairghani156&show_icons=true&locale=en&layout=compact" alt="umairghani156" /></p>
 
